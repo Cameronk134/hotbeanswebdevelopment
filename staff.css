@@ -10,6 +10,7 @@
 @media screen and (max-width: 650px) {
   .column {
     width: 70%;
+    height: 70%;
     display: block;
   }
 }
