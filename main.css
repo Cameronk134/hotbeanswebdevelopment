@@ -3,6 +3,10 @@
 	background-color:#000080;
 	overflow:hidden;
 	width: 100%
+		
+.p1 {
+  font-family: "Times New Roman", Times, serif;		
+	
 }
 
 /*Style the links inside the navigation bar*/
